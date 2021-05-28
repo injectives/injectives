@@ -8,4 +8,4 @@ My name is Dmitriy Tverdiakov. I am a Software Engineer passionate about archite
 - 🏋️ Weight training is my hobby.
 - 📣 I support knowledge sharing culture.
 
-You can message me [here](www.linkedin.com/in/injectives).
+You can message me [here](https://linkedin.com/in/injectives).
